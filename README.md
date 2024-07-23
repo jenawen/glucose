@@ -1,5 +1,5 @@
 # glucose data visualizer
-an app to visualize my bf's glucose levels ! bc he's got diabetes o.o
+an app to visualize my glucose levels ! 
 
 first time using python+streamlit for a personal data app.
 
